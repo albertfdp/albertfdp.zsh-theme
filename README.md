@@ -1,6 +1,6 @@
 # minimal zsh theme
 
-A minimal ZSH theme
+A minimal ZSH theme. If you use iTerm2, you can move the git status info to the status bar, and then keep zsh clean and minimal.
 
 ## Getting started
 
